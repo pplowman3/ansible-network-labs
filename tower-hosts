@@ -3,7 +3,7 @@ cisco
 juniper
 
 [cisco]
-R<studentID> ansible_host=10.1.<studentID>.10
+R102 ansible_host=10.1.102.10
 
 [cisco:vars]
 ansible_network_os=ios
